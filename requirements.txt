@@ -61,3 +61,4 @@ ujson==1.33
 uritemplate==0.6
 wsgiref==0.1.2
 zope.interface==4.1.2
+django>=3.1.13 # not directly required, pinned by Snyk to avoid a vulnerability
