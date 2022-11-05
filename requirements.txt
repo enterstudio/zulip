@@ -1,9 +1,9 @@
 git+https://github.com/rwbarton/django.git@59f1fc4c7b65d23fceffd5c87e2b6ea350030c56
 GitPython==0.3.2.1
 Markdown==2.1.1
-Pillow==2.8.2
+Pillow==9.0.1
 Pygments==2.0.2
-SQLAlchemy==0.7.8
+SQLAlchemy==1.2.18
 South==1.0.2
 Twisted==15.2.1
 apns-client==0.2.1
@@ -48,7 +48,7 @@ pylibmc==1.4.3
 python-ldap==2.4.19
 pytz==2015.4
 redis==2.10.3
-requests==2.7.0
+requests==2.20
 rsa==3.1.4
 simplejson==3.7.3
 six==1.9.0
