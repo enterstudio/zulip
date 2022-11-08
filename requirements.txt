@@ -37,7 +37,7 @@ oauthlib==1.0.3
 pika==0.9.14
 postmonkey==1.0b0
 psycopg2==2.6
-pyOpenSSL==0.15.1
+pyOpenSSL==17.5.0
 pyasn1==0.1.7
 pyasn1-modules==0.0.5
 pycparser==2.14
@@ -48,7 +48,7 @@ pylibmc==1.4.3
 python-ldap==2.4.19
 pytz==2015.4
 redis==2.10.3
-requests==2.7.0
+requests==2.20
 rsa==3.1.4
 simplejson==3.7.3
 six==1.9.0
