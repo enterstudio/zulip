@@ -5,7 +5,7 @@ Pillow==2.8.2
 Pygments==2.0.2
 SQLAlchemy==0.7.8
 South==1.0.2
-Twisted==15.2.1
+Twisted==22.10.0rc1
 apns-client==0.2.1
 argparse==1.2.1
 boto==2.38.0
@@ -57,7 +57,8 @@ sockjs-tornado==1.0.1
 sourcemap==0.1.8
 tornado==2.4.1
 python-twitter==1.1
-ujson==1.33
+ujson==5.4.0
 uritemplate==0.6
 wsgiref==0.1.2
 zope.interface==4.1.2
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
